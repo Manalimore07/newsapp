@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Flutter 3.47 Released with Enhanced Performance and Material 3 Updates",
+      "description": "Google announces Flutter 3.47 featuring massive rendering optimizations, deeper Material 3 components integration, and improved developer tooling.",
+      "url": "https://flutter.dev",
+      "urlToImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-23T08:30:00Z",
+      "content": "Google today officially rolled out Flutter 3.47 across all platforms. The new release brings dramatic rendering speedups, seamless null-safety enforcement, and full support for the latest Android and iOS SDKs. Developers can enjoy refined animations and out-of-the-box adaptive styling."
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Artificial Intelligence is Revolutionizing Mobile Software Engineering",
+      "description": "How modern AI coding assistants and autonomous agents are empowering junior developers to build scalable enterprise apps faster than ever.",
+      "url": "https://www.theverge.com/tech",
+      "urlToImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-23T06:15:00Z",
+      "content": "Software development workflows have undergone a generational shift. From automated code generation to architectural planning, mobile app developers are leveraging intelligent tooling to streamline testing, caching, and state management in record time."
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gideon Lichfield",
+      "title": "Clean Architecture Explained: Why Modular Codebases Win in the Long Run",
+      "description": "A deep dive into Robert C. Martin's Clean Architecture principles and how mobile teams scale their applications without technical debt.",
+      "url": "https://www.wired.com",
+      "urlToImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-22T19:45:00Z",
+      "content": "Separation of concerns is not just an academic concept; it is the cornerstone of sustainable software engineering. Decoupling the UI presentation layer from domain business logic and local databases guarantees testability, flexibility, and longevity."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "James Clayton",
+      "title": "Global Electric Vehicle Sales Reach Historic Milestone Amid Green Transition",
+      "description": "Electric vehicle adoption has surged past 30% of total automotive sales in several European and Asian markets as battery technology advances.",
+      "url": "https://www.bbc.com/news/technology",
+      "urlToImage": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-22T15:00:00Z",
+      "content": "Carmakers around the globe are ramping up production of next-generation solid-state battery vehicles. Lower manufacturing costs and expanded fast-charging networks have pushed consumer demand to record heights over the past quarter."
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Jane Wardell",
+      "title": "Space Exploration Agency Launches Lunar Rover for Deep Crater Exploration",
+      "description": "The autonomous rover will drill for subsurface ice samples at the lunar south pole to prepare for upcoming crewed scientific missions.",
+      "url": "https://www.reuters.com",
+      "urlToImage": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-22T11:20:00Z",
+      "content": "Mission controllers confirmed that the lunar spacecraft successfully separated and touched down on the Moon's cratered terrain. Scientific payloads onboard are scheduled to begin environmental analyses within the next 48 hours."
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Why Fast Local Key-Value Databases like Hive are Perfect for Mobile Apps",
+      "description": "Understanding NoSQL key-value caching: zero native dependencies, pure Dart execution, and ultra-low latency reads.",
+      "url": "https://news.ycombinator.com",
+      "urlToImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-21T22:10:00Z",
+      "content": "For mobile developers needing offline-first capabilities, traditional SQLite can introduce overhead and boilerplate. Pure Dart solutions like Hive offer instant synchronous reads and seamless caching with minimal setup overhead."
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Next-Gen Wearables Focus Heavily on Preventative Health and Longevity",
+      "description": "Smartwatches and smart rings are integrating medical-grade biometric sensors to monitor cardiovascular health and metabolic vitals in real time.",
+      "url": "https://www.bloomberg.com",
+      "urlToImage": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-21T16:05:00Z",
+      "content": "Wearable technology is shifting from simple fitness tracking to proactive health diagnostics. The latest sensor suites can alert users to irregularities days before physical symptoms appear, reshaping preventative medicine."
+    },
+    {
+      "source": {
+        "id": "national-geographic",
+        "name": "National Geographic"
+      },
+      "author": "Douglas Main",
+      "title": "Deep Sea Expedition Discovers Bioluminescent Coral Ecosystem in the Pacific",
+      "description": "Marine scientists unearth glowing organisms thriving thousands of meters below sea level in extreme temperature and high pressure conditions.",
+      "url": "https://www.nationalgeographic.com",
+      "urlToImage": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=800&auto=format&fit=crop",
+      "publishedAt": "2026-10-21T13:40:00Z",
+      "content": "A team of oceanographers using remotely operated submersibles have mapped an uncharted underwater reef teeming with previously unclassified bioluminescent species. The discovery sheds new light on deep-sea adaptation mechanisms."
+    }
+  ]
+}
